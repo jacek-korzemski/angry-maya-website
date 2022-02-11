@@ -1,3 +1,12 @@
+:root {
+    --main-color-1: #8d6b94;
+    --main-color-2: #b185a7;
+    --main-color-3: #c3a29e;
+    --main-color-4: #e8dbc5;
+    --main-color-5: #fff4e9;
+    --text-color: #414141;
+}
+
 body {
     margin: 0;
     padding: 0;
