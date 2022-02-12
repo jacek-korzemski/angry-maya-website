@@ -1,8 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import TopBar from "components/_StyledComponents/Header/TopBar";
-import MainMenu from "components/_StyledComponents/Header/MainMenu";
-import LogoText from "components/_StyledComponents/Header/LogoText";
+import { TopBar, MainMenu, LogoText } from "./Wrappers";
 
 const Header = () => {
     return (
